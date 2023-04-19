@@ -1,0 +1,8 @@
+Cython
+numpy
+rasterio
+tqdm
+argcomplete
+argparse
+pybind11
+scipy
